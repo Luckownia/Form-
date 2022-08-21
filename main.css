@@ -26,3 +26,13 @@ body{
     margin-top: 10px;
     color:white;
 }
+
+/*Login-In-PAGE*/
+.grettings{
+    font-size: 30px;
+    margin-top: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
